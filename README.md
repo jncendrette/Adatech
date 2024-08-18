@@ -1,4 +1,4 @@
-# Projeto: Entrega do Projeto 03
+# Entrega do Projeto 03
 
 ## Módulo: Sistema Operacional Linux
 
