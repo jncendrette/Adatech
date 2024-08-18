@@ -28,11 +28,11 @@ LOG_FILE=~/Adatech/log.txt
 echo "Log de backup iniciado em - $(date)" > $LOG_FILE
 
 # Removendo arquivos do diretório padrão do Servidor Web Nginx
-rm -rf /usr/share/nginx/html/
+rm -rf /usr/share/nginx/html/*
 echo "Arquivos removidos com sucesso! - $(date)" > $LOG_FILE
 
 # Copiando os arquivos do projeto para o diretório do Nginx
-cp -rf Adatech/ /usr/share/nginx/html/
+cp -rf Adatech/* /usr/share/nginx/html/
 echo "Arquivos copiados com sucesso! - $(date)" > $LOG_FILE
 echo "Configuração concluída com sucesso - $(date)" > $LOG_FILE
 
