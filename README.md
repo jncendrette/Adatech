@@ -1,7 +1,7 @@
 # Auto Web Server Nginx in EC2 AWS
 #### Módulo: Sistema Operacional Linux
 
-Este projeto configura uma instância EC2 para servir uma página web estática usando Nginx. A página HTML contém informações sobre o curso Santander Coders 2024.1, DevOps #1182.
+Este projeto configura uma instância EC2 para servir uma página web estática usando Nginx. A página HTML contém informações sobre o curso Santander Coders 2024, DevOps | Ada Tech #1182.
 
 ## Tecnologias 
 
