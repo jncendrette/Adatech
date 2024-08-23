@@ -18,7 +18,14 @@ Este projeto configura uma instância EC2 para servir uma página web estática 
 3. Use o conteúdo do arquivo `webserver.sh` como User Data ao iniciar a instância.
 4. Acesse o site via o endereço IP público da instância EC2.
 
-## Aluno
+## Tecnologias 
 
-ID: 1182026
-Nome: José Nelson Cendrette
+* VSCode
+* AWS
+  - EC2
+  - User Data
+*  HTML5
+*  CSS
+*  Shell Scripting
+*  Linux 
+   
