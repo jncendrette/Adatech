@@ -24,8 +24,9 @@ Este projeto configura uma instância EC2 para servir uma página web estática 
 * AWS
   - EC2
   - User Data
+  - Amazon Linux
 *  HTML5
 *  CSS
 *  Shell Scripting
-*  Linux 
+  
    
